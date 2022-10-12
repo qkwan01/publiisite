@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DGHT 150: Digital Shakespeare",
+    "description": "",
+    "home_page_url": "https://qkwan01.github.io/publiisite",
+    "feed_url": "https://qkwan01.github.io/publiisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "QK"
+    },
+    "items": [
+    ]
+}
